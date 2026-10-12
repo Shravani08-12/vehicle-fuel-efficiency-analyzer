@@ -1,0 +1,13 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Deployment credentials and secrets
+.Rprofile
+rsconnect/
+
+# OS/editor files
+.DS_Store
+Thumbs.db

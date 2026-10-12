@@ -1,0 +1,7 @@
+START HERE
+1. Install R and RStudio using links in the ChatGPT instructions.
+2. Open RStudio. Use File > Open File and open generate_data.R from this folder.
+3. Run the script with Source. It creates data/vehicles.csv using R's random generator.
+4. Open app.R and click Run App.
+5. If a package error appears, run install.packages(c('shiny','ggplot2','dplyr','bslib','DT','bsicons','scales')) in Console.
+The included CSV is an initial simulated dataset. Running generate_data.R regenerates it using the documented R simulation and seed.
